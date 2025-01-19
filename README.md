@@ -14,7 +14,7 @@ Requirements
 Installation
 Clone the repository:
 
-git clone https://github.com/yourusername/Discord-Gift-Puller.git
+git clone https://github.com/HDBOOSTS/Discord-GIft-Puller.git
 
 Install the required dependencies:
 
