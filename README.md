@@ -31,7 +31,7 @@ git clone https://github.com/HDBOOSTS/Discord-GIft-Puller.git
 
 Install the required dependencies:
 
-pip install -r requirements.txt
+
 
 Make sure you have the necessary files:
 tokens.txt – This file should contain one Discord token per line.
