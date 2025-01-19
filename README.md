@@ -5,6 +5,8 @@ This script allows you to pull Xbox gift codes from Discord tokens using a multi
 
 
 Discord Server - https://discord.hdboosts.cc
+
+
 Website - https://hdboosts.mysellix.io  - https://hdboosts.cc
 
 
