@@ -71,5 +71,4 @@ If a token is invalid, it will be skipped, and an error message will be shown in
 If the script encounters issues with claiming Xbox codes (e.g., rate limiting, network errors), it will retry with the next token.
 
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+DO NOT SKID THIS TOOL 
