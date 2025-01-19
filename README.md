@@ -1,6 +1,17 @@
 # Discord-Gift-Puller
 This script allows you to pull Xbox gift codes from Discord tokens using a multi-threaded approach. It retrieves Xbox Live GamePass codes from Discord promotions.
 
+
+
+
+Discord Server - https://discord.hdboosts.cc
+Website - https://hdboosts.mysellix.io  - https://hdboosts.cc
+
+
+
+
+
+
 Requirements
 - Python 3.x
 - colorama for colorful terminal output
